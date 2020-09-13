@@ -14,9 +14,9 @@ I did a sample code relevant to functions.
 
 I/O format:
 
-**_ input: <the number of array elements> <the list of array elements> <the number of elements to be rotated> <the number of positions> _**
+**_ input:<the_number_of_array_elements><the_list_of_array_elements><the_number_of_elements_to_be_rotated><the_number_of_positions> _**
 
-**_ output: <the elements of the transformed array> _**
+**_ output:<the_elements_of_the_transformed_array> _**
 
 *For example:*
 --
