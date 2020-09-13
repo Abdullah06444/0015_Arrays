@@ -1,6 +1,6 @@
-# 0014_Arrays
+# 0015_Arrays
 
-I did a sample code relevant to functions.
+I started to arrays/lists.
 
 # Sample Exercise
 
